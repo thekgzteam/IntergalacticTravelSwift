@@ -14,6 +14,7 @@
 		FD81335E1B78FFD800E48BCE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD81335D1B78FFD800E48BCE /* Images.xcassets */; };
 		FD8133611B78FFD800E48BCE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FD81335F1B78FFD800E48BCE /* LaunchScreen.xib */; };
 		FD81336D1B78FFD800E48BCE /* IntergalacticTravelSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD81336C1B78FFD800E48BCE /* IntergalacticTravelSwiftTests.swift */; };
+		FD8133771B79083600E48BCE /* VacationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD8133761B79083600E48BCE /* VacationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		FD8133661B78FFD800E48BCE /* IntergalacticTravelSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntergalacticTravelSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD81336B1B78FFD800E48BCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD81336C1B78FFD800E48BCE /* IntergalacticTravelSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntergalacticTravelSwiftTests.swift; sourceTree = "<group>"; };
+		FD8133761B79083600E48BCE /* VacationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VacationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				FD8133531B78FFD800E48BCE /* AppDelegate.swift */,
 				FD8133581B78FFD800E48BCE /* ViewController.swift */,
+				FD8133761B79083600E48BCE /* VacationViewController.swift */,
 				FD81335A1B78FFD800E48BCE /* Main.storyboard */,
 				FD81335D1B78FFD800E48BCE /* Images.xcassets */,
 				FD81335F1B78FFD800E48BCE /* LaunchScreen.xib */,
@@ -218,6 +221,7 @@
 				FD8133591B78FFD800E48BCE /* ViewController.swift in Sources */,
 				FD8133571B78FFD800E48BCE /* IntergalacticTravelSwift.xcdatamodeld in Sources */,
 				FD8133541B78FFD800E48BCE /* AppDelegate.swift in Sources */,
+				FD8133771B79083600E48BCE /* VacationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
